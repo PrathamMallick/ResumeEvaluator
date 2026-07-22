@@ -32,7 +32,7 @@ Key job responsibilities
 Basic Qualifications
 - Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
 - Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
-- Currently has, or is in the process of obtaining a bachelor’s degree in Computer Science, Computer Engineering, Data Science, Information Systems, or related Engineering fields
+- Currently has, or is in the process of obtaining a bachelor’s degree in Computer Science, Computer Engineering, Data Science, Information Systems, or related Engineering fields like Electrical Engineering, Electronics Engineering, etc
 - Must be 18 years of age of older
 Preferred Qualifications
 - Experience from previous technical internship(s) or demonstrated project experience
